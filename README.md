@@ -1,0 +1,20 @@
+## f42xskt-user 13 TP1A.220624.014 E426SKSS7DXH1 release-keys
+- Manufacturer: samsung
+- Platform: mt6833
+- Codename: f42x
+- Brand: samsung
+- Flavor: f42xskt-user
+- Release Version: 13
+- Kernel Version: 4.14.186
+- Id: TP1A.220624.014
+- Incremental: E426SKSS7DXH1
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: ko-KR
+- Screen Density: undefined
+- Fingerprint: samsung/f42xskt/f42x:12/SP1A.210812.016/E426SKSS7DXH1:user/release-keys
+- OTA version: 
+- Branch: f42xskt-user-13-TP1A.220624.014-E426SKSS7DXH1-release-keys
+- Repo: samsung_f42x_dump
